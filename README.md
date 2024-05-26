@@ -6,6 +6,6 @@ The system is designed to classify leaves into three distinct categories corresp
 <img src="adam test 2.png" alt="best performance of the model" width="500" height="400"></img>
 
 <h3>Performance </h3>
-<img src="performance.png" alt="performance" width="1000" height="200"></img>
-<img src="precision.png" alt="precision" width="1000" height="200"></img>
-<img src="recall.png" alt="recall" width="1000" height="200"></img>
+<img src="performance.png" alt="performance" width="500" height="50"></img>
+<img src="precision.png" alt="precision" width="200" height="50"></img>
+<img src="recall.png" alt="recall" width="200" height="50"></img>
